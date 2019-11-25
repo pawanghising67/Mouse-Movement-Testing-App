@@ -1,0 +1,11 @@
+C:\Users\pghising\Desktop\MouseMovementCalculator\MouseMovementCalculator\bin\Debug\MouseMovementCalculator.exe.config
+C:\Users\pghising\Desktop\MouseMovementCalculator\MouseMovementCalculator\bin\Debug\MouseMovementCalculator.exe
+C:\Users\pghising\Desktop\MouseMovementCalculator\MouseMovementCalculator\bin\Debug\MouseMovementCalculator.pdb
+C:\Users\pghising\Desktop\MouseMovementCalculator\MouseMovementCalculator\obj\Debug\MouseMovementCalculator.WelcomeMenu.resources
+C:\Users\pghising\Desktop\MouseMovementCalculator\MouseMovementCalculator\obj\Debug\MouseMovementCalculator.Properties.Resources.resources
+C:\Users\pghising\Desktop\MouseMovementCalculator\MouseMovementCalculator\obj\Debug\MouseMovementCalculator.csproj.GenerateResource.cache
+C:\Users\pghising\Desktop\MouseMovementCalculator\MouseMovementCalculator\obj\Debug\MouseMovementCalculator.csproj.CoreCompileInputs.cache
+C:\Users\pghising\Desktop\MouseMovementCalculator\MouseMovementCalculator\obj\Debug\MouseMovementCalculator.exe
+C:\Users\pghising\Desktop\MouseMovementCalculator\MouseMovementCalculator\obj\Debug\MouseMovementCalculator.pdb
+C:\Users\pghising\Desktop\MouseMovementCalculator\MouseMovementCalculator\obj\Debug\MouseMovementCalculator.MouseMove.resources
+C:\Users\pghising\Desktop\MouseMovementCalculator\MouseMovementCalculator\obj\Debug\MouseMovementCalculator.csprojAssemblyReference.cache
